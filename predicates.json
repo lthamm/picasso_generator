@@ -1,0 +1,5 @@
+[
+  {"has": "mouth"},
+  {"has": "nose"},
+  {"top_of": ["nose", "mouth"]}
+]
