@@ -1,10 +1,8 @@
 import copy
 import os
-from typing import List, Optional, Sequence
 
 import numpy as np
-from skimage import io, transform, img_as_ubyte
-from tqdm import tqdm
+from skimage import io, transform
 
 import matplotlib.pyplot as plt
 
