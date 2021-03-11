@@ -16,7 +16,7 @@ Assume you have a theory `has(mouth)`. Add it to predicates.json as an entry
 to the array:
 `{"has": "mouth"}`.
 Then run the project. If everything goes well, you will end up with images,
-that do not have a nose.
+that do not have a mouth.
 
 
 ## Preparation
